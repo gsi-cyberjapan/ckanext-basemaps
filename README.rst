@@ -1,4 +1,4 @@
-BaseMpas for CKAN
+BaseMaps for CKAN
 ============================================================================
 
 
@@ -8,7 +8,7 @@ BaseMpas for CKAN
 Installation
 ------------
 
-** This plugin dependencies ckanext-spatial Plugin. **
+**This plugin dependencies ckanext-spatial Plugin.**
 
 The current version of ckanext-basemaps has been developed and tested again
 **CKAN 2.1.x**. We assume a running CKAN 2.1.x instance.
@@ -26,9 +26,9 @@ Configuration
 
 These are the configuration options used by the extension 
 
-# Map Names.
+#. Map Names.
 ckanext.basemaps.laylers.names = 地理院地図（標準）, 地理院地図（白地図）,電子国土基本図（オルソ画像）
-# Map URLs.
+#. Map URLs.
 ckanext.basemaps.laylers.urls = http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png, http://cyberjapandata.gsi.go.jp/xyz/blank/{z}/{x}/{y}.png, http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg
 
 
