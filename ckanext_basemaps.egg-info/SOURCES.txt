@@ -1,0 +1,10 @@
+setup.py
+ckanext/__init__.py
+ckanext/basemaps/__init__.py
+ckanext_basemaps.egg-info/PKG-INFO
+ckanext_basemaps.egg-info/SOURCES.txt
+ckanext_basemaps.egg-info/dependency_links.txt
+ckanext_basemaps.egg-info/entry_points.txt
+ckanext_basemaps.egg-info/namespace_packages.txt
+ckanext_basemaps.egg-info/not-zip-safe
+ckanext_basemaps.egg-info/top_level.txt

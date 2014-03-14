@@ -1,0 +1,28 @@
+.leaflet-control-layers-list {
+	background-size: 4px 4px;
+	margin-bottom: 5px;
+}
+
+.leaflet-control-layers label input {
+    display: inline;
+}
+
+
+.leaflet-control-layers a {
+	/*background-image: url(images/layers.png);*/
+	width: 28px;
+	height:28px;
+	}
+.leaflet-control-layers-expanded .leaflet-control-layers-list {
+      display: block;
+    }
+
+.leaflet-control-layers-base label {
+      font-weight: normal;
+      font: 12px/1.5 "Helvetica Neue",Arial,Helvetica,sans-serif;
+    }
+
+.leaflet-control-layers-base label input[type="radio"] {
+    top: 0;
+}
+

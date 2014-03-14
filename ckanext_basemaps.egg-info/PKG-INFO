@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ckanext-basemaps
+Version: 0.1
+Summary: Switch Geo-maps plugin for CKAN
+Home-page: http://ckan.gsi.go.jp
+Author: Geospatial Information Authority of Japan
+Author-email: UNKNOWN
+License: FreeBSD
+Description: 	
+Platform: UNKNOWN

@@ -1,0 +1,13 @@
+{#
+* Copyright 2014, Geospatial Information Authority of Japan, released
+under the FreeBSD
+* license. Please see
+#}
+{% set tile_config = h.get_tile_layer_config() %}
+<article class="module prose" data-module="tile-base" data-module-tile_config="{{ h.dump_json(tile_config) }}">
+  <section class="module-content">
+  </section>
+</article>
+
+{% resource 'ckanext-basemaps/tile_base' %}
+
